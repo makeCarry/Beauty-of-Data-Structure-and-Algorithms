@@ -16,3 +16,8 @@
 * [08 | 栈：如何实现浏览器的前进和后退功能？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/10)
 * [09 | 队列：队列在线程池等有限资源池中的应用](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/11)
 * [10 | 递归：如何用三行代码找到“最终推荐人”？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/12)
+* [11 | 排序（上）：为什么插入排序比冒泡排序更受欢迎？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/13)
+* [12 | 排序（下）：如何用快排思想在O(n)内查找第K大元素？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/14)
+* [13 | 线性排序：如何根据年龄给100万用户数据排序？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/15)
+* [14 | 排序优化：如何实现一个通用的、高性能的排序函数？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/16)
+* 未完待续
