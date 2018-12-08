@@ -20,4 +20,10 @@
 * [12 | 排序（下）：如何用快排思想在O(n)内查找第K大元素？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/14)
 * [13 | 线性排序：如何根据年龄给100万用户数据排序？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/15)
 * [14 | 排序优化：如何实现一个通用的、高性能的排序函数？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/16)
+* [15 | 二分查找（上）：如何用最省内存的方式实现快速查找功能？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/17)
+* [16 | 二分查找（下）：如何快速定位IP对应的省份地址？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/18)
+* [17 | 跳表：为什么Redis一定要用跳表来实现有序集合？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/19)
+* [18 | 散列表（上）：Word文档中的单词拼写检查功能是如何实现的？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/20)
+* [19 | 散列表（中）：如何打造一个工业级水平的散列表？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/21)
+* [20 | 散列表（下）：为什么散列表和链表经常会一起使用？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/22)
 * 未完待续
