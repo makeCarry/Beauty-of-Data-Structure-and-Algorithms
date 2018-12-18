@@ -26,4 +26,6 @@
 * [18 | 散列表（上）：Word文档中的单词拼写检查功能是如何实现的？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/20)
 * [19 | 散列表（中）：如何打造一个工业级水平的散列表？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/21)
 * [20 | 散列表（下）：为什么散列表和链表经常会一起使用？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/22)
+* [21 | 哈希算法（上）：如何防止数据库中的用户信息被脱库？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/23)
+* [22 | 哈希算法（下）：哈希算法在分布式系统中有哪些应用？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/24)
 * 未完待续
