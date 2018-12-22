@@ -28,4 +28,6 @@
 * [20 | 散列表（下）：为什么散列表和链表经常会一起使用？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/22)
 * [21 | 哈希算法（上）：如何防止数据库中的用户信息被脱库？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/23)
 * [22 | 哈希算法（下）：哈希算法在分布式系统中有哪些应用？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/24)
+* [23 | 二叉树基础（上）：什么样的二叉树适合用数组来存储？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/25)
+* [24 | 二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/26)
 * 未完待续
