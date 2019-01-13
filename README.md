@@ -32,4 +32,6 @@
 * [24 | 二叉树基础（下）：有了如此高效的散列表，为什么还需要二叉树？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/26)
 * [25 | 红黑树（上）：为什么工程中都用红黑树这种二叉树？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/27)
 * [26 | 红黑树（下）：掌握这些技巧，你也可以实现一个红黑树](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/28)
+* [27 | 递归树：如何借助树来求解递归算法的时间复杂度？](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/29)
+* [不定期福利第二期 |羁绊前行的，不是肆虐的狂风，而是内心的迷茫](https://github.com/foreverZ133/Beauty-of-Data-Structure-and-Algorithms/issues/30)
 * 未完待续
